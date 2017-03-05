@@ -1,0 +1,5 @@
+database\CRUD.class
+com\myservlets\CUDServlet.class
+database\Root.class
+com\myservlets\Auth.class
+com\myservlets\MyServlet.class
